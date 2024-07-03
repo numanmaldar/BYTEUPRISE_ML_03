@@ -1,8 +1,8 @@
 # BYTEUPRISE_ML_03
-Cat and Dog Finder
+## Cat and Dog Finder
 Welcome to the Cat and Dog Finder repository! This project is part of my internship in machine learning, where I developed a model to classify images of cats and dogs. The model is built using the dataset provided by Whenamancodes on Kaggle.
 
-Dataset
+## Dataset
 The dataset contains images of cats and dogs, which are divided into two categories:
 
 Cat images
@@ -23,12 +23,9 @@ Model Selection: Fine-tuning hyperparameters of the SVM to optimize performance.
 Evaluation Metrics: Accuracy, precision, recall, and F1-score to assess the model's performance.
 
 
-Contributing
+## Contributing
 Contributions are welcome! If you have any suggestions or find any issues, please open an issue or submit a pull request.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-Acknowledgments
+## Acknowledgments
 Whenamancodes for providing the dataset.
 The open-source community for tools and libraries.
